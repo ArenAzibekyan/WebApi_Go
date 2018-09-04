@@ -2,4 +2,4 @@
 
 ## A test Golang Web API
 
-### Using Golang, Mox and embedded StormDB
+### Using Golang, Mux and embedded StormDB
